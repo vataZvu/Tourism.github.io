@@ -6,8 +6,6 @@ body{
 /* Header */
 .header{
   height: 673px;
-  border: solid black 1px;
-  background-color: #898768;
   background-image: url("../image/Layer_23.png");
 }
 
@@ -342,7 +340,6 @@ body{
   margin: auto;
   height: 440px;
   width: 780px;
-  background-color: black;
   background-image: url("../image/Color_Fill_5.png");
 }
 
